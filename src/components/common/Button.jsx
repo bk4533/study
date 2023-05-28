@@ -2,7 +2,7 @@ import styled from "styled-components"
 
 const Container = styled.div`
     padding: 10px 20px;
-    height: 10px;
+    height: 30px;
     width: ${props => props.width};
     background-color: ${propsss => propsss.bg};
 `
